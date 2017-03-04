@@ -1,0 +1,5 @@
+1920 1080 \\ image width and height
+0 0 15 \\	camera position (x, y, z)
+0 0 1 \\	camera up vector
+0 1 0 \\	right vector
+35 \\	camera fov
